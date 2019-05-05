@@ -1,1 +1,4 @@
-# lab02
+*build*/
+*install*/
+*.swp
+.idea/
